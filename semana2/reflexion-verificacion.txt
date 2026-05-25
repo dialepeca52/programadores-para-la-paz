@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Alejandro Peña Calderón
+Fecha: 24/05/2026
+Nombre de la rama: Rama_Diego_Peña
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,13 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+La información sin verficiar puede perjudicar a 
+las personas, de modo que compartir información sin verificar puede
+perjudicar a diferentes personas, de ésta forma, si logro verificar la 
+fuente  u origen de la información puedo aportar al fortalecimiento de
+mi comunidad, ahora bien, que haya una buena comunicación entre mi comunidad
+y yo depende del nivel de comunicación que podamos alcanzar, si se habla de 
+una comunidad digital, mientras más personas puedan tener acceso a los espacios
+digitales más posibilidad tiene mi comunidad de crecer, finalmente, la 
+encuesta participa puede fomentar ese crecimiento de una comunidad digital
+que sea sana y responsable.

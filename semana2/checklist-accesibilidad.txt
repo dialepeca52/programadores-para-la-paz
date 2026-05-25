@@ -1,14 +1,14 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Alejandro Peña Calderón
+Fecha: 24/05/2026
+Nombre de la rama: Rama_Diego_Peña
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: No, el titulo es muy amplio y no se sabe a qué comunidad se está dirigiendo.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí, el parrafo continuo al texto explica por qué o para qué se usarán los datos.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta:
@@ -26,10 +26,10 @@ Respuesta:
 Respuesta:
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: sí, porque lo agrande durante el desarrollo de la sesión.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: No, porque los colores que le coloque son muy irritantes jaja.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Le cambiaria los colores que le puse porque muchos preferirian no llenarlo.
