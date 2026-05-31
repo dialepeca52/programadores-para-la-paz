@@ -1,8 +1,8 @@
 Bitácora de comando – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 30/05/2026
+Nombre de la rama: DIEGO_PEÑA
 
 Comando nuevo del día:
 node archivo.js
@@ -10,41 +10,41 @@ node archivo.js
 Escribe los comandos que usaste durante la práctica.
 1. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta: git clone
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta: cd
 
 3. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta: git checkout -b
 
 4. Comando usado para verificar la rama:
 
-Respuesta:
+Respuesta: git branch
 
 5. Comando usado para ejecutar algoritmo-verificacion.js:
 
-Respuesta:
+Respuesta: node -v
 
 6. Comando usado para ejecutar decision-comunitaria.js:
 
-Respuesta:
+Respuesta: node decision-comunitaria
 
 7. Comando usado para revisar cambios en Git:
 
-Respuesta:
+Respuesta:git status
 
 8. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta:git add .
 
 9. Comando usado para crear commit:
 
-Respuesta:
+Respuesta: git commit
 
 10. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta:git push --set-upstream origin
 

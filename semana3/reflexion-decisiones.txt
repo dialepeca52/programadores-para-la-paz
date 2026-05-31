@@ -1,8 +1,8 @@
 Reflexión sobre decisiones responsables – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 30/05/2026
+Nombre de la rama: DIEGO_PEÑA
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,11 @@ En tu respuesta menciona al menos dos de estas ideas:
 - convivencia en internet
 
 Respuesta:
+
+Es impportante tomar decisiones responsables al compartir
+información porque compartir información es una acción de mucha responsabilidad,
+si no se es responsable y se usa lenguaje claro que permita identificar
+con claridad el mensaje realizado puede que se caiga en situaciones de 
+desinformacion ya sea por mala intención o por mala interpretación,
+el uso del lenguaje claro permite una mayor confianza comunitaria
+y mejora la convivencia en internet entre los ciudadanos digitales.

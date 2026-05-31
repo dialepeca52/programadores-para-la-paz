@@ -1,18 +1,18 @@
 Conceptos básicos de JavaScript – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Alejandra Peña Calderón
+Fecha: 30705/2026
+Nombre de la rama: DIEGO_PEÑA
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta: Una herramienta para dar instrucciones a mi programa
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta: Permite ejecutar los archivos js
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
@@ -20,11 +20,11 @@ Respuesta:
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: Es una caja en la que se pueden guardar instrucciones
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta: es como una variable pero que no cambia
 
 6. ¿Para qué se usa let?
 
@@ -32,11 +32,11 @@ Respuesta:
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: si se cumple x hacer y
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: si no se cumple x hacer algo más
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
