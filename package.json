@@ -4,12 +4,21 @@
     "description": "Ciclos while en JavaScript para procesos de revisión comunitaria.",
     "main": "ciclo-while.js",
     "scripts": {
-      "practicar": "node ciclo-while.js",
-      "propuestas": "node conteo-propuestas.js",
-      "fuentes": "node revision-fuentes.js",
-      "seguimiento": "node seguimiento-comunitario.js"
+        "practicar": "node ciclo-while.js",
+        "propuestas": "node conteo-propuestas.js",
+        "fuentes": "node revision-fuentes.js",
+        "seguimiento": "node seguimiento-comunitario.js"
     },
     "author": "Programa Capacitación en Democracia y Tecnología",
-    "license": "MIT"
-  }
-  
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmgranda/programadores-para-la-paz-semana3-dia3.git"
+    },
+    "keywords": [],
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/mmgranda/programadores-para-la-paz-semana3-dia3/issues"
+    },
+    "homepage": "https://github.com/mmgranda/programadores-para-la-paz-semana3-dia3#readme"
+}

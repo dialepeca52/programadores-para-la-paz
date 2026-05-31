@@ -1,8 +1,8 @@
 Reflexión sobre seguimiento comunitario – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 31/05/2026
+Nombre de la rama: DP_S3D5
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,14 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 
 Respuesta:
+La transparencia es un pilar esencial para el fortalecimiento de las instituciones, las organizaciones y los espacios de participación pública. 
+Cuando la información relevante se comparte de manera clara, accesible y oportuna, las personas pueden comprender mejor cómo se toman las decisiones 
+y cuáles son sus impactos. Este acceso a la información facilita la revisión de información por parte de la ciudadanía, promoviendo una cultura de rendición 
+de cuentas y reduciendo la posibilidad de que circulen datos inexactos o engañosos. Asimismo, la transparencia contribuye directamente a la prevención de 
+desinformación, ya que permite contrastar afirmaciones con fuentes verificables y fomenta una comprensión más precisa de los hechos.
+
+Por otro lado, el seguimiento ciudadano desempeña un papel clave en la construcción de confianza comunitaria. Cuando las personas participan activamente en el 
+monitoreo de proyectos, políticas o iniciativas que afectan a su entorno, se fortalece el vínculo entre la comunidad y quienes toman decisiones. Esta participación 
+no debe limitarse a momentos puntuales, sino que requiere una participación sostenida que permita evaluar avances, identificar problemas y proponer mejoras a lo 
+largo del tiempo. A través de este compromiso continuo, se promueve una mayor responsabilidad digital y social, ya que tanto instituciones como ciudadanos reconocen 
+la importancia de actuar de manera ética, verificar la información antes de compartirla y contribuir a un entorno informativo más seguro y confiable para todos.

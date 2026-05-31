@@ -1,11 +1,11 @@
 let fuenteActual = 1
-const totalFuentes = 4
+const totalFuentes = 8
 
 console.log("Revisión de fuentes antes de compartir información")
 
 while (fuenteActual <= totalFuentes) {
   console.log("Revisando fuente número:", fuenteActual)
-  fuenteActual = fuenteActual + 1
+  fuenteActual = fuenteActual + 1.01
 }
 
 console.log("Proceso de revisión de fuentes terminado.")
