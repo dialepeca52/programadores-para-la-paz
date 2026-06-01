@@ -1,8 +1,8 @@
 Reflexión sobre plataformas participativas – Semana 3 Día 5
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 31/05/2026
+Nombre de la rama: DIEGO_PEÑA_S3D5
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,12 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 
 Respuesta:
+Una plataforma participativa debe permitir consultar información y también 
+enviar propuestas o mensajes porque fortalece la participación ciudadana. El 
+acceso a la información ayuda a que las personas conozcan las decisiones y 
+actividades de su comunidad. Al mismo tiempo, la recepción de propuestas 
+permite que los ciudadanos expresen sus ideas y necesidades. Esto favorece la
+transparencia y hace que las decisiones sean más inclusivas. Además, cuando 
+las respuestas son claras, se genera mayor confianza comunitaria. 
+Finalmente, el uso responsable de estos espacios promueve la responsabilidad
+digital y una mejor comunicación entre todos los miembros de la comunidad.

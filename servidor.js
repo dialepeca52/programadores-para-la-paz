@@ -1,6 +1,6 @@
 const http = require("http")
 
-const puerto = 3000
+const puerto = 3001
 
 const servidor = http.createServer((request, response) => {
   console.log("Método recibido:", request.method)
@@ -16,6 +16,13 @@ const servidor = http.createServer((request, response) => {
   if (request.method === "GET" && request.url === "/propuestas") {
     response.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" })
     response.write("Lista inicial de propuestas: convivencia, información clara y participación.")
+    response.end()
+    return
+  }
+
+  if (request.method === "GET" && request.url === "/ROMA_TE_AMO") {
+    response.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" })
+    response.write("ERES EL MEJOR REGALO QUE DIOS ME HA DADO EN LA VIDA")
     response.end()
     return
   }
@@ -38,11 +45,11 @@ const servidor = http.createServer((request, response) => {
   }
 
   response.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" })
-  response.write("Ruta no encontrada. Revisa la dirección solicitada.")
+  response.write("Se equivoco de sitio papi, F sota. Revisa la dirección solicitada.")
   response.end()
 })
 
 servidor.listen(puerto, () => {
-  console.log("Servidor funcionando en http://localhost:3000")
-  console.log("Puedes abrir http://localhost:3000 en el navegador.")
+  console.log("Servidor funcionando en http://localhost:"+puerto)
+  console.log("Puedes abrir http://localhost:"+puerto+" en el navegador.")
 })
