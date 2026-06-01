@@ -1,8 +1,8 @@
 Reflexión sobre listas y participación – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 31/05/2026
+Nombre de la rama: DIEGO_PEÑA
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,13 @@ En tu respuesta menciona al menos dos de estas ideas:
 - lenguaje claro
 
 Respuesta:
+
+Es importante organizar la información comunitaria en listas claras, 
+revisables y fáciles de entender porque facilita la participación ciudadana 
+y permite que más personas conozcan lo que sucede en su comunidad. Además, 
+la claridad de la información ayuda a evitar confusiones y mejora la 
+comunicación entre los vecinos. Cuando la información está bien organizada, 
+también se fortalece la transparencia y el seguimiento comunitario de las 
+actividades y decisiones. Esto contribuye a generar confianza entre los 
+miembros de la comunidad. Finalmente, el uso de un lenguaje claro ayuda a 
+prevenir la desinformación y promueve una mejor colaboración.
