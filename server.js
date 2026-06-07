@@ -23,7 +23,7 @@ app.post("/propuestas", (req, res) => {
   console.log("Propuesta recibida:")
   console.log(propuesta)
 
-  res.send("Propuesta recibida por la plataforma comunitaria: " + propuesta)
+  res.send("Propuesta recibida por la plataforma comunitaria, la guardaremos en un sistio que no revisaremos jamas: " + propuesta)
 })
 
 app.use((req, res) => {
@@ -31,7 +31,7 @@ app.use((req, res) => {
 })
 
 app.listen(puerto, () => {
-  console.log("Servidor Express funcionando en http://localhost:3000")
+  console.log("Servidor Express funcionando en http://localhost:" +puerto)
   console.log("Rutas disponibles:")
   console.log("GET  /")
   console.log("GET  /campania")

@@ -1,34 +1,34 @@
 Conceptos básicos de Express – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Diego Peña
+Fecha: 06/06/2026
+Nombre de la rama: Diego_Peña_M2S1C1
 
 Responde con tus propias palabras.
 
 1. ¿Qué es Express?
 
-Respuesta:
+Respuesta: Una herramienta que facilita la creación y ejecución de páginas web
 
 2. ¿Qué diferencia básica hay entre Node.js y Express?
 
-Respuesta:
+Respuesta: Son complementarios, node ejecuta pero express facilita esa ejecución
 
 3. ¿Qué hace el comando npm install express?
 
-Respuesta:
+Respuesta: instala express
 
 4. ¿Qué hace el comando npm start en esta práctica?
 
-Respuesta:
+Respuesta: activa el servidor
 
 5. ¿Qué es una ruta en Express?
 
-Respuesta:
+Respuesta: Es una vía de comunicación entre el cliente y el servidor.
 
 6. ¿Para qué usamos una ruta GET?
 
-Respuesta:
+Respuesta: 
 
 7. ¿Para qué usamos una ruta POST?
 
