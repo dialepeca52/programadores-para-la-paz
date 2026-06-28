@@ -1,0 +1,8 @@
+Yo decidí crear no sólo las rutas de las indicaciones
+sino que tambien decidí realizar otras rutas
+diferentes, las rutas que cree en general son:
+
+1. http://localhost:3000/ : Esta ruta abre mi página en un servidor local.
+2. http://localhost:3000/saludo: Esta ruta saluda al equipo de programadores para la paz.
+3. http://localhost:3000/mensaje/:nombre : Esta ruta saluda al nombre que se le coloque, además le muestra una expresión de felicidad.
+4. http://localhost:3000/discurso : Esta ruta muestra mi opinión respecto a las elecciones que se avecinan el próximo 21 de junio.

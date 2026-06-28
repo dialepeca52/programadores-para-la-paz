@@ -1,0 +1,5 @@
+esta ruta post lo que hace es enviar una 
+respuesta desde el servidor al cliente, en una 
+comunidad permite que el usuario pueda sentirse 
+escuchado y así asocie la participación con algo 
+bueno dentro del proceso de usar mi página

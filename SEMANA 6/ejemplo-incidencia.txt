@@ -1,0 +1,7 @@
+{
+  "nombre": "Piter Parker",
+  "tipo": "Problema de seguridad",
+  "descripcion": "La luz del parque comunitario está dañada y la zona queda oscura durante la noche.",
+  "ubicacion": "Parque central del barrio",
+  "prioridad": "Media",
+  }

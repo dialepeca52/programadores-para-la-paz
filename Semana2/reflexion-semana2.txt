@@ -1,0 +1,8 @@
+Saber usal la terminal para navegar y organizar
+archivos dentro de un proyecto es una habilidad
+importante y fundamental para un programador
+porque sin esa habilidad un programador no sería
+capaz de desarrollar sus deberes como programador
+dado que la terminal permite al programador interactuar
+a traves de comandos con diferentes carpetas y documentos
+con los que puede cumplir con sus deberes comociudadano digital.

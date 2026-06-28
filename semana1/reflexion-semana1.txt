@@ -1,0 +1,8 @@
+Creo que el uso responsable de la información en la red,
+la participación ciudadana y la organización del trabajo técnico con herramientas como
+Git se vinculan a traves de diferentes aspectos, el primero de ellos es que estos tres
+aspectos pueden darse en torno a las personas, por ejemplo,
+una buena persona participara negativamente difundiendo fake news
+o afectando plataformas que prestan servicio a las personas, por otro lado,
+los tres aspectos se ven relacionados a los datos y la información ya que herramientas como Git permiten organizar adecuadamente 
+bases de datos recopilados de la información en la red y se pueden utilizar para ayudar a diferentes personas o a su vez a perjudicarlos con datos inadecuados o mal utilizados.

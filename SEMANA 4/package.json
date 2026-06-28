@@ -1,0 +1,24 @@
+{
+  "name": "actividad-semana-4-ppp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dialepeca52/ACTIVIDAD-SEMANA-4-PPP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dialepeca52/ACTIVIDAD-SEMANA-4-PPP/issues"
+  },
+  "homepage": "https://github.com/dialepeca52/ACTIVIDAD-SEMANA-4-PPP#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

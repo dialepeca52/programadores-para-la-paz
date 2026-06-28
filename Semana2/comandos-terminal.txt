@@ -1,0 +1,11 @@
+ls
+mkdir
+cd
+cd ..
+git status
+pwd
+touch
+git add
+git push
+git remote -v
+git remote set-url origin
