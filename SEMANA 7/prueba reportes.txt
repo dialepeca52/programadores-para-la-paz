@@ -1,0 +1,10 @@
+Al probar la ruta POST mediante el comando 
+curl -X POST http://localhost:3000/reportes -H "Content-Type: application/json" -d "{\"tipo\":\"Infraestructura\",\"descripcion\":\"Daño en alumbrado público\"}"
+
+El mensaje que sale dice dice que el reporte fue registrado.
+Muestra el Id correspondiente de la consulta.
+
+Cuando pruebo la ruta GET en mi terminale mediante el comando
+curl -X GET http://localhost:3000/reportes
+
+Reporta la cantidad de veces que se solicitó una ruta POST
