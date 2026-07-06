@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable y segura en un servidor porque garantizan que los usuarios puedan acceder al servicio en cualquier momento.
+Si el servidor falla o es inestable, la comunidad puede perder comunicación o información importante.
+La seguridad evita que personas no autorizadas accedan o modifiquen los datos del sistema.
+También protege la privacidad de los usuarios dentro de la plataforma.
+Un servidor estable permite que las aplicaciones funcionen sin interrupciones ni errores frecuentes.
+Esto mejora la confianza de los usuarios en la herramienta digital.
+Además, ayuda a que los procesos automatizados se ejecuten correctamente.
+En conjunto, estabilidad y seguridad aseguran el buen funcionamiento de la comunidad digital.

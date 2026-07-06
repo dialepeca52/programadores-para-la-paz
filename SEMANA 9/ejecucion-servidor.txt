@@ -1,0 +1,3 @@
+El servidor se comienza a ejecutar en el puerto 3000.
+Servidor activo y funcionando
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
