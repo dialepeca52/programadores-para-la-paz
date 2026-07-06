@@ -1,0 +1,9 @@
+1.Usar procesos de autenticación.
+
+2.Mantener software actualizado.
+
+3.Validar entradas de usuarios.
+
+4.Aplicar principio de mínimo privilegio.
+
+5.Hacer copias de seguridad (backups).

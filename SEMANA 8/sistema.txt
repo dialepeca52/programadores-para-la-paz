@@ -1,0 +1,7 @@
+uname -a:
+Me muestra el sistema operativo, la fecha, la hora.
+
+whoami:
+Dice codespace
+
+Es útil conocer información del sistema cuando se administra un servidor para poder entender qué y cómo se va a trabajar, además, eso me permite identificar quién hace qué cosas.
