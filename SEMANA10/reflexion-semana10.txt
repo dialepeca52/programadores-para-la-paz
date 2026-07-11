@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar el trabajo en pequeñas tareas que pueden completarse y mejorarse de forma continua. Esto facilita que un proyecto comunitario responda rápidamente a las necesidades de los ciudadanos. La automatización reduce el tiempo dedicado a tareas repetitivas, como enviar notificaciones o actualizar el estado de un reporte. De esta manera, el equipo puede enfocarse en resolver los problemas de la comunidad. Canales como Telegram permiten una 
+comunicación rápida y directa entre ciudadanos y 
+coordinadores. Además, las alertas en tiempo real ayudan a 
+dar seguimiento oportuno a las incidencias reportadas. La 
+combinación de estas herramientas mejora la transparencia, la
+ colaboración y la participación ciudadana. Como resultado, 
+ la comunidad puede organizarse de forma más eficiente y dar 
+ una respuesta más ágil a las necesidades colectivas.
