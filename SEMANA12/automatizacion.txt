@@ -1,0 +1,14 @@
+Automatización – Petición en 3 Clics
+
+Evento que activa la automatización:
+Cuando un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje que se envía:
+"Se ha creado una nueva causa en la plataforma Petición en 3 
+Clics. Ingresa para conocer los detalles y, si estás de 
+acuerdo, brinda tu apoyo."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, números de teléfono, direcciones, 
+correos electrónicos, comentarios sensibles, contraseñas ni 
+ningún otro dato personal de los ciudadanos.
